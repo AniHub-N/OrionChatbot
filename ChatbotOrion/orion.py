@@ -11,7 +11,7 @@ if "memory" not in st.session_state:
 if "client" not in st.session_state:
     st.session_state.client = InferenceClient(
         model="mistralai/Mistral-7B-Instruct-v0.2",
-        token="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"  # <-- replace with your token
+        token="REPLACE YOUR HF-Token HERE"  # <-- replace with your token
     )
 
 # ----------------------------
@@ -101,3 +101,4 @@ if submit_button and user_input:
 
     # Re-render conversation including new messages
     render_conversation()
+
