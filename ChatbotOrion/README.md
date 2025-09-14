@@ -11,7 +11,6 @@
 ## Demo
 
 ![ORION Chat Demo](assets/demo.gif)  
-*Replace `assets/demo.gif` with your actual screen-recorded GIF showing chat interaction.*
 
 Try it live locally:
 
@@ -96,4 +95,5 @@ LangChain
  – Conversation memory
 
 Streamlit
+
  – Interactive web app
