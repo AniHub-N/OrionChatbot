@@ -94,13 +94,14 @@ Data augmentation provides significant improvements across CNNs, especially redu
 
 ## Conclusion
 
-This project demonstrates the impact of model choice and data augmentation on CIFAR-10 classificati
+This project demonstrates the impact of model choice and data augmentation on CIFAR-10 classification
 
 
 ## Run in Google Colab
 
 You can open and run this project in Google Colab here:  
 [Open in Colab](https://colab.research.google.com/drive/1uMPY_mF4NyWrkpf6Vti9eNmWV_bh62eM?usp=sharing)
+
 
 
 
