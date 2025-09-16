@@ -49,24 +49,24 @@ We trained four configurations:
 ## Loss and Accuracy Plots
 
 ### TinyVGG (No Augmentation)
-![Training Loss](ICLA_Project2/assets/tinyvgg_noaug_loss.png)
-![Training Accuracy](ICLA_Project2/assets/tinyvgg_noaug_acc.png)
-![Confusion Matrix](ICLA_Project2/assets/tinyvgg_noaug_confusion.png)
+![Training Loss](assets/tinyvgg_noaug_loss.png)
+![Training Accuracy](assets/tinyvgg_noaug_acc.png)
+![Confusion Matrix](assets/tinyvgg_noaug_confusion.png)
 
 ### TinyVGG (With Augmentation)
-![Training Loss](ICLA_Project2/assets/tinyvgg_aug_loss.png)
-![Training Accuracy](ICLA_Project2/assets/tinyvgg_aug_acc.png)
-![Confusion Matrix](ICLA_Project2/assets/tinyvgg_aug_confusion.png)
+![Training Loss](assets/tinyvgg_aug_loss.png)
+![Training Accuracy](assets/tinyvgg_aug_acc.png)
+![Confusion Matrix](assets/tinyvgg_aug_confusion.png)
 
 ### ResNet18 (No Augmentation)
-![Training Loss](ICLA_Project2/assets/resnet18_noaug_loss.png)
-![Training Accuracy](ICLA_Project2/assets/resnet18_noaug_acc.png)
-![Confusion Matrix](ICLA_Project2/assets/resnet18_noaug_confusion.png)
+![Training Loss](assets/resnet18_noaug_loss.png)
+![Training Accuracy](assets/resnet18_noaug_acc.png)
+![Confusion Matrix](assets/resnet18_noaug_confusion.png)
 
 ### ResNet18 (With Augmentation)
-![Training Loss](ICLA_Project2/assets/resnet18_aug_loss.png)
-![Training Accuracy](ICLA_Project2/assets/resnet18_aug_acc.png)
-![Confusion Matrix](ICLA_Project2/assets/resnet18_aug_confusion.png)
+![Training Loss](assets/resnet18_aug_loss.png)
+![Training Accuracy](assets/resnet18_aug_acc.png)
+![Confusion Matrix](assets/resnet18_aug_confusion.png)
 
 
 ---
@@ -100,5 +100,6 @@ This project demonstrates the impact of model choice and data augmentation on CI
 
 You can open and run this project in Google Colab here:  
 [Open in Colab](https://colab.research.google.com/drive/1uMPY_mF4NyWrkpf6Vti9eNmWV_bh62eM?usp=sharing)
+
 
 
