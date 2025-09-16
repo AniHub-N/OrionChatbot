@@ -9,20 +9,25 @@ This project implements and compares CNN models on the CIFAR-10 dataset using Py
 CIFAR10-Image-Classification/
 │
 ├── README.md
+├── notebook.ipynb
+│
 ├── assets/
 │   ├── tinyvgg_noaug_loss.png
 │   ├── tinyvgg_noaug_acc.png
+│   ├── tinyvgg_noaug_confusion.png
+│
 │   ├── tinyvgg_aug_loss.png
 │   ├── tinyvgg_aug_acc.png
+│   ├── tinyvgg_aug_confusion.png
+│
 │   ├── resnet18_noaug_loss.png
 │   ├── resnet18_noaug_acc.png
+│   ├── resnet18_noaug_confusion.png
+│
 │   ├── resnet18_aug_loss.png
 │   ├── resnet18_aug_acc.png
-│   ├── tinyvgg_noaug_confusion.png
-│   ├── tinyvgg_aug_confusion.png
-│   ├── resnet18_noaug_confusion.png
 │   └── resnet18_aug_confusion.png
-└── notebook.ipynb
+
 
 
 ---
@@ -93,3 +98,4 @@ This project demonstrates the impact of model choice and data augmentation on CI
 
 You can open and run this project in Google Colab here:  
 [Open in Colab](https://colab.research.google.com/drive/1uMPY_mF4NyWrkpf6Vti9eNmWV_bh62eM?usp=sharing)
+
